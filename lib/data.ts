@@ -25,6 +25,8 @@ export const navLinks: NavLink[] = [
   { label: "How It Works", href: "#how-it-works" },
   { label: "Security", href: "#security" },
   { label: "About", href: "#about" },
+  { label: "Chat", href: "/chat" },
+  { label: "Conversation", href: "/conversation" },
 ];
 
 export const navCTA = {
